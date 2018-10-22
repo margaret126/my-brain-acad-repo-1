@@ -6,7 +6,7 @@ package ua.zp.bracad.bratchvv.lab3;
  *
  * @author Vladimir Bratchikov
  */
-public class MathSequences {
+public final class MathSequences {
 
     /**
      * Sum of several values.
@@ -100,4 +100,7 @@ public class MathSequences {
         return result;
     }
 
+    private MathSequences() {
+        // Denied to create instance of this class
+    }
 }
