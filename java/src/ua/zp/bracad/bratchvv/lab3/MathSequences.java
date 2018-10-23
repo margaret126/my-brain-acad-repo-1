@@ -61,6 +61,28 @@ public final class MathSequences {
     }
 
     /**
+     * Get count of figure's tops.
+     *
+     * @param name name of figure
+     * @return sum result.
+     */
+    public static int defineFigureTops(String name) { // TODO** create Enum and replace method parameter.
+        switch(name.toLowerCase()) {
+            case "triangle" :
+                return 3;
+            case "square" :
+            case "rectangle" :
+            case "parallelogram" :
+                return 4;
+            case "circle" :
+                return 0;
+            default:
+                System.out.println( "Unknown figure");
+                return -1;
+        }
+    }
+
+    /**
      * Calc factorial value.
      *
      * @param a factorial value.
