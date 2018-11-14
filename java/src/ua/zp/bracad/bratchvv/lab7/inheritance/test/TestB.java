@@ -1,4 +1,4 @@
-package ua.zp.bracad.bratchvv.lab7.test;
+package ua.zp.bracad.bratchvv.lab7.inheritance.test;
 
 public class TestB extends TestA{
     void test() {

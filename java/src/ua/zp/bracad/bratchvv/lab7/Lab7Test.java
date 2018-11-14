@@ -1,12 +1,14 @@
 package ua.zp.bracad.bratchvv.lab7;
 
-import ua.zp.bracad.bratchvv.lab7.animals.Animal;
-import ua.zp.bracad.bratchvv.lab7.animals.Cat;
-import ua.zp.bracad.bratchvv.lab7.animals.Dog;
-import ua.zp.bracad.bratchvv.lab7.compose.TestA;
-import ua.zp.bracad.bratchvv.lab7.compose.TestB;
-import ua.zp.bracad.bratchvv.lab7.devices.Pad;
-import ua.zp.bracad.bratchvv.lab7.devices.SmartPhone;
+import ua.zp.bracad.bratchvv.lab7.inheritance.animals.Animal;
+import ua.zp.bracad.bratchvv.lab7.inheritance.animals.Cat;
+import ua.zp.bracad.bratchvv.lab7.inheritance.animals.Dog;
+import ua.zp.bracad.bratchvv.lab7.inheritance.compose.TestA;
+import ua.zp.bracad.bratchvv.lab7.inheritance.compose.TestB;
+import ua.zp.bracad.bratchvv.lab7.inheritance.devices.Pad;
+import ua.zp.bracad.bratchvv.lab7.inheritance.devices.SmartPhone;
+import ua.zp.bracad.bratchvv.lab7.polymorphism.Simple;
+import ua.zp.bracad.bratchvv.lab7.polymorphism.Specific;
 
 public class Lab7Test {
 

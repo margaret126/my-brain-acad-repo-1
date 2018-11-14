@@ -1,6 +1,6 @@
-package ua.zp.bracad.bratchvv.lab7.devices;
+package ua.zp.bracad.bratchvv.lab7.inheritance.devices;
 
-public class SmartPhone {
+public class SmartPhone extends Mobile{
 
     private String name;
     private int price;

@@ -1,4 +1,4 @@
-package ua.zp.bracad.bratchvv.lab7.devices;
+package ua.zp.bracad.bratchvv.lab7.inheritance.devices;
 
 public class Mobile extends AbstractDevice {
 

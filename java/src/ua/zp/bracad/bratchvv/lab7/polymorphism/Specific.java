@@ -1,4 +1,4 @@
-package ua.zp.bracad.bratchvv.lab7;
+package ua.zp.bracad.bratchvv.lab7.polymorphism;
 
 public class Specific extends Simple{
     public String data = "Specific";

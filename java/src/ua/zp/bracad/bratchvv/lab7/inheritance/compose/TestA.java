@@ -1,4 +1,4 @@
-package ua.zp.bracad.bratchvv.lab7.compose;
+package ua.zp.bracad.bratchvv.lab7.inheritance.compose;
 
 public class TestA {
 

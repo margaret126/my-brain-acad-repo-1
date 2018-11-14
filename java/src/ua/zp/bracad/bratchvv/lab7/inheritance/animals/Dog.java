@@ -1,4 +1,4 @@
-package ua.zp.bracad.bratchvv.lab7.animals;
+package ua.zp.bracad.bratchvv.lab7.inheritance.animals;
 
 public class Dog extends Animal {
 

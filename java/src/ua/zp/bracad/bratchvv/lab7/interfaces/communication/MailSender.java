@@ -1,4 +1,4 @@
-package ua.zp.bracad.bratchvv.lab7.communication;
+package ua.zp.bracad.bratchvv.lab7.interfaces.communication;
 
 public interface MailSender {
 
